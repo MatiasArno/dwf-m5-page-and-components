@@ -1,0 +1,1 @@
+{"mappings":"AAAA,SAAS,OAAO;IAEZ,QAAQ,GAAG,CAAC;AAChB;AAEC","sources":["src/index.ts"],"sourcesContent":["function main() {\r\n\r\n    console.log(\"Hello World!\");\r\n}\r\n\r\n main();"],"names":[],"version":3,"file":"index.377278e2.js.map","sourceRoot":"/__parcel_source_root/"}

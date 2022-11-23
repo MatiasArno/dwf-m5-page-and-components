@@ -1,0 +1,18 @@
+@import "https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&family=Roboto:wght@300;400;500;700;900&display=swap";
+* {
+  box-sizing: border-box;
+}
+
+body {
+  min-width: 375px;
+  margin: 0;
+  padding: 0;
+  font-family: Roboto, sans-serif;
+}
+
+.root {
+  width: 100%;
+  padding: 15px 30px 90px;
+}
+
+/*# sourceMappingURL=index.61d3354a.css.map */
